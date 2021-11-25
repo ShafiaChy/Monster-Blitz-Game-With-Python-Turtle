@@ -13,5 +13,5 @@
     <li>The assets used here are borrowed.</li>
 </ol>
 
-##Player Wins
-[Player Wins](https://streamable.com/kuq0dz)
+
+[![Player Wins]](https://streamable.com/kuq0dz)
