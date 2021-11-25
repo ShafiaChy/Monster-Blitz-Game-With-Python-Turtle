@@ -21,7 +21,7 @@ wn.title("Sea Invaders")
 wn.bgpic("sea_bg.gif")
 wn.tracer(0)
 
-# Show the name of the game on screen
+# Show the name of the game on screenG
 w_pen = turtle.Turtle()
 w_pen.speed(0)
 w_pen.color("black")
@@ -29,7 +29,7 @@ w_pen.penup()
 wstring = "Monster Blitz"
 w_pen.write(wstring, False, "center", ("Comic Sans MS",25, "bold"))
 w_pen.hideturtle()
-time.sleep(1)
+time.sleep(5)
 w_pen.clear()
 
 #start the game
