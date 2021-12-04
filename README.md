@@ -4,14 +4,13 @@
 
 
 ## About my project
+<p>𝐌𝐨𝐧𝐬𝐭𝐞𝐫 𝐁𝐥𝐢𝐭𝐳 is a game made with the Python Turtle module. The player moves horizontally across the bottom of the screen and fires at the jellyfish monsters overhead. It is similar to the game Space Invader but some significant changes have been made.</p>
 <ol>
-    <li>It is a simple shooting game made with Python Turtle library.</li>
-    <li>It is similar to the game Space Invader but some significant changes has been made.</li>
-    <li>The game has a score board where the score gets updated each the player shoots.</li>
-    <li>Collision math has been implemented hence if the player collides with an enemy or any other obstacles, the game end.</li>
-    <li>If the enemies collide with any obstacles (excluding the player), they will respawn.</li>
+    <li>has a scoreboard where the score gets updated each time the player shoots.</li>
+    <li>implemented collision detection math using the math module, hence if the player collides with an enemy or a rock, the game ends.</li>
+    <li> If the enemies collide with rocks, they respawn.</li>
     <li>The assets used here are borrowed.</li>
 </ol>
 
 
-[![Player Wins]](https://streamable.com/kuq0dz)
+![Player Wins]('player_wins.gif')
