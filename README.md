@@ -13,4 +13,4 @@
 </ol>
 
 
-![Player Wins](https://s10.gifyu.com/images/player_wins.md.gif)
+[![player_wins.gif](https://s10.gifyu.com/images/player_wins.gif)](https://gifyu.com/image/S2awS)
