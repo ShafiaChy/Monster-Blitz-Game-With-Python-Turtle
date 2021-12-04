@@ -12,5 +12,6 @@
     <li>The assets used here are borrowed.</li>
 </ol>
 
+<h2>Player wins</h2>
 
 [![player_wins.gif](https://s10.gifyu.com/images/player_wins.gif)](https://gifyu.com/image/S2awS)
